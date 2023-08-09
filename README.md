@@ -2,6 +2,8 @@
 
 This project is the GoParty application for iOS. This app will be used to create chat groups for users who wan't to create parties. You can add your friends on it, add them to a group, and the group will be automatically deleted when the party is over.
 
+**This project is for the moment not using the [goparty-api](https://github.com/malobgdre/goparty-api) which is still under development.**
+
 ## Users
 
 Users will first need to register using a Username, a unique Email, and a Password. After the user logged in, the main UI is shown, with the list of his online friends, as well as the list of the groups of the user.
